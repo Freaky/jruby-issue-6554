@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark-ips (2.8.4)
+    json (2.5.1-java)
+
+PLATFORMS
+  universal-java-1.8
+  universal-java-11
+  universal-java-14
+  universal-java-15
+
+DEPENDENCIES
+  benchmark-ips (~> 2.8)
+  json
+
+BUNDLED WITH
+   2.2.2
